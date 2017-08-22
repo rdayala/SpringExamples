@@ -1,0 +1,9 @@
+Incase if you get this error :
+
+	org.apache.maven.archiver.MavenArchiver.getManifest(org.apache.maven.project.MavenProject, org.apache.maven.archiver.MavenArchiveConfiguration)
+
+add the following to the pom.xml :
+
+<properties>        
+    <maven-jar-plugin.version>2.6</maven-jar-plugin.version>
+</properties>
