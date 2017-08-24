@@ -1,0 +1,43 @@
+Ctrl + space 							Ctrl + 1 for suggestions			Ctrl + D - delete a line
+
+Ctrl + Shift + F - to format code				Ctrl + Shift + O - to organize imports			
+
+Ctrl + Shift + R - for opening a resource in workspace		Ctrl + Shift + T - searching for a type
+
+F4 - for opening type hierarchy					Ctrl + O - for class outline
+
+Ctrl + Shift + L - to list all shortcuts			Ctrl + / - to single line comment and uncomment
+
+Methods related:
+-----------------
+
+F3 - to go function declaration
+
+Ctrl + Shift + G - method invocations, which other methods are invoking		Ctrl + Alt + H - to open call hierarchy
+
+Searching
+----------
+
+Ctrl + H - for searching workspace 				Ctrl + F - for searching within file
+
+Debugging
+----------
+F11 - Debug		F5 - Step Into 		F6 - Step Over
+
+Ctrl + R - to run to that statement even without breakpoint on that line
+
+To view all pre-defined templates
+----------------------------------
+
+Window -> Preferences -> Java -> Editor -> Templates
+
+Window -> Preferences -> Java -> Installed JREs
+			      -> Compiler : compliance level
+
+Window -> Show View	
+Window -> Perspective -> Open Perspective
+
+*** If you want Eclipse to automatically do some actions when you save file or like that:
+
+	Window -> Preferences -> Java -> Editor -> Save Actions
+
